@@ -1,0 +1,1556 @@
+1697142287191	geckodriver	INFO	Listening on 127.0.0.1:58326
+1697142290247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileSYf0pn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697142290718	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697142290816	Marionette	INFO	Listening on port 58348
+WebDriver BiDi listening on ws://127.0.0.1:58327
+Read port: 58348
+1697142291025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58327/devtools/browser/3002edde-8163-4f2c-9a8b-e5de09f31a73
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1697142299559	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2549:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH, line 154: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:154:17
+wz@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:462:134
+xz/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:462:111
+
+1697142350541	Marionette	INFO	Stopped listening on port 58348
+Dynamically enable window occlusion 1
+1697142356044	geckodriver	INFO	Listening on 127.0.0.1:58532
+1697142359104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofile6fEjR9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697142359635	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697142359736	Marionette	INFO	Listening on port 58548
+WebDriver BiDi listening on ws://127.0.0.1:58533
+Read port: 58548
+1697142359960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58533/devtools/browser/090a2004-d784-4470-95f2-de20ab655793
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1697142367170	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2549:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+1697142435117	geckodriver	INFO	Listening on 127.0.0.1:58787
+1697142438164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofile1i9FO4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697142438552	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697142438656	Marionette	INFO	Listening on port 58805
+WebDriver BiDi listening on ws://127.0.0.1:58788
+Read port: 58805
+1697142438904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58788/devtools/browser/8857394d-461f-4b50-bee7-74e779f9f157
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1697142445701	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2549:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+1697142480868	geckodriver	INFO	Listening on 127.0.0.1:58934
+1697142483930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilesQozQi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697142484454	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697142484600	Marionette	INFO	Listening on port 58956
+WebDriver BiDi listening on ws://127.0.0.1:58935
+Read port: 58956
+1697142484869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58935/devtools/browser/5191b33c-da57-421c-844a-f8e6a0422d5c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1697142676317	geckodriver	INFO	Listening on 127.0.0.1:59591
+1697142679375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileLiig07"
+1697142717084	geckodriver	INFO	Listening on 127.0.0.1:59732
+1697142720165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileJpL40B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697142720932	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697142721180	Marionette	INFO	Listening on port 59754
+WebDriver BiDi listening on ws://127.0.0.1:59733
+Read port: 59754
+1697142721512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59733/devtools/browser/7863ed2c-cf73-4156-ab96-75a23cba7544
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1697142772207	geckodriver	INFO	Listening on 127.0.0.1:59908
+1697142775267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilemogUsr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697142775766	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697142775922	Marionette	INFO	Listening on port 59925
+WebDriver BiDi listening on ws://127.0.0.1:59909
+Read port: 59925
+1697142776193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59909/devtools/browser/5418059b-51dc-4cb3-a3ea-3d506ffa1e6b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1697142783476	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2549:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+1697142838537	geckodriver	INFO	Listening on 127.0.0.1:60100
+1697142841605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilekWMjBV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697142841898	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697142841986	Marionette	INFO	Listening on port 60118
+WebDriver BiDi listening on ws://127.0.0.1:60101
+Read port: 60118
+1697142842161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60101/devtools/browser/97353738-d67b-4ff9-84ca-3009af849bf4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1697142907598	geckodriver	INFO	Listening on 127.0.0.1:60316
+1697142910650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilemhQcft"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697142910961	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697142911072	Marionette	INFO	Listening on port 60333
+WebDriver BiDi listening on ws://127.0.0.1:60317
+Read port: 60333
+1697142911322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60317/devtools/browser/58b74406-3b5c-40b8-b313-d50fc974e952
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1697142918607	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2549:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+1697142945239	geckodriver	INFO	Listening on 127.0.0.1:60479
+1697142948305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60480" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileqlVkbA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697142948637	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697142948747	Marionette	INFO	Listening on port 60497
+WebDriver BiDi listening on ws://127.0.0.1:60480
+Read port: 60497
+1697142948937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60480/devtools/browser/cf625ec4-f424-423a-a073-1dff73ef9b3f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1697142956365	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2549:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+1697143000267	geckodriver	INFO	Listening on 127.0.0.1:60669
+1697143003319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60670" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileKZBk8D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697143003607	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697143003690	Marionette	INFO	Listening on port 60687
+WebDriver BiDi listening on ws://127.0.0.1:60670
+Read port: 60687
+1697143003866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60670/devtools/browser/ad692624-b21e-4d40-ab6d-063726db87a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1697143053835	geckodriver	INFO	Listening on 127.0.0.1:60853
+1697143056909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60854" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileE96JJ7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697143057200	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697143057291	Marionette	INFO	Listening on port 60869
+WebDriver BiDi listening on ws://127.0.0.1:60854
+Read port: 60869
+1697143057472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60854/devtools/browser/a96438d7-5618-4f7f-a5d8-20dd9f2d4adf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1697143108744	geckodriver	INFO	Listening on 127.0.0.1:61035
+1697143111802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileNsJBG6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697143112108	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697143112191	Marionette	INFO	Listening on port 61051
+WebDriver BiDi listening on ws://127.0.0.1:61036
+Read port: 61051
+1697143112368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61036/devtools/browser/cc3c6932-f74f-481d-b506-bd8d7dd049d0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+Invalid port. Exiting...
+Invalid port. Exiting...
+1697208793592	geckodriver	INFO	Listening on 127.0.0.1:54311
+1697208796658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54312" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileDvgrck"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697208797203	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697208797316	Marionette	INFO	Listening on port 54333
+WebDriver BiDi listening on ws://127.0.0.1:54312
+Read port: 54333
+1697208797487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54312/devtools/browser/f557a508-85b0-407e-a116-f3dd0bfad266
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2001))
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=815868d55fcc09f2, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697208810178	Marionette	INFO	Stopped listening on port 54333
+Dynamically enable window occlusion 1
+1697208975820	geckodriver	INFO	Listening on 127.0.0.1:54693
+1697208978876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileRkNSEQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697208979188	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697208979269	Marionette	INFO	Listening on port 54708
+WebDriver BiDi listening on ws://127.0.0.1:54694
+Read port: 54708
+Read port: 54708
+1697208980519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54694/devtools/browser/eb035dc9-fc88-493b-9395-9d803cea584c
+1697208989502	Marionette	INFO	Stopped listening on port 54708
+Dynamically enable window occlusion 1
+1697213284677	geckodriver	INFO	Listening on 127.0.0.1:52247
+1697213303644	geckodriver	INFO	Listening on 127.0.0.1:52298
+1697213306734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileqlVDWO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697213307213	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697213307309	Marionette	INFO	Listening on port 52317
+WebDriver BiDi listening on ws://127.0.0.1:52299
+Read port: 52317
+1697213307514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52299/devtools/browser/e9b2a3bc-f775-4131-bd8f-b8721b704fce
+JavaScript warning: https://saucelabs.com/, line 14: Script terminated by timeout at:
+i@https://saucelabs.com/:14:29813
+ie/</</<@https://saucelabs.com/:14:30297
+t@https://saucelabs.com/:14:27723
+
+1697213363086	Marionette	INFO	Stopped listening on port 52317
+Dynamically enable window occlusion 1
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+1697213366504	geckodriver	INFO	Listening on 127.0.0.1:52621
+1697213369585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52622" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilep57kil"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697213370053	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697213370198	Marionette	INFO	Listening on port 52637
+WebDriver BiDi listening on ws://127.0.0.1:52622
+Read port: 52637
+1697213370528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52622/devtools/browser/3019d32d-a8db-4748-a408-0e69b726aa59
+1697213394837	Marionette	INFO	Stopped listening on port 52637
+JavaScript warning: https://saucelabs.com/, line 14: Script terminated by timeout at:
+nrWrapper@https://saucelabs.com/:14:35415
+
+Dynamically enable window occlusion 1
+1697213468709	geckodriver	INFO	Listening on 127.0.0.1:53019
+1697213471793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53020" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileaV0TD6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697213472150	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697213472263	Marionette	INFO	Listening on port 53035
+WebDriver BiDi listening on ws://127.0.0.1:53020
+Read port: 53035
+1697213472618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53020/devtools/browser/74fe0793-c847-48dc-9f25-f079f216b052
+1697213493851	Marionette	INFO	Stopped listening on port 53035
+JavaScript warning: https://saucelabs.com/, line 14: Script terminated by timeout at:
+nrWrapper@https://saucelabs.com/:14:35415
+
+Dynamically enable window occlusion 1
+1697214439788	geckodriver	INFO	Listening on 127.0.0.1:55076
+1697214442854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofile3WjjQb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697214443168	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697214443256	Marionette	INFO	Listening on port 55091
+WebDriver BiDi listening on ws://127.0.0.1:55077
+Read port: 55091
+1697214443434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55077/devtools/browser/7c865f3a-34c6-4433-a631-ff193259519b
+1697214465292	Marionette	INFO	Stopped listening on port 55091
+Dynamically enable window occlusion 1
+1697214466591	geckodriver	INFO	Listening on 127.0.0.1:55260
+1697214469659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilef1qD6t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697214469973	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697214470064	Marionette	INFO	Listening on port 55274
+WebDriver BiDi listening on ws://127.0.0.1:55261
+Read port: 55274
+1697214470242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55261/devtools/browser/b2c0af86-d393-46c0-8331-be84487a7638
+1697214486284	Marionette	INFO	Stopped listening on port 55274
+Dynamically enable window occlusion 1
+1697214954556	geckodriver	INFO	Listening on 127.0.0.1:56279
+1697214957612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56280" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofiletpDTDi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697214957946	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697214958033	Marionette	INFO	Listening on port 56293
+WebDriver BiDi listening on ws://127.0.0.1:56280
+Read port: 56293
+1697214958207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56280/devtools/browser/9a1ace3c-6a09-449e-9d3f-fd20faa1d47d
+1697214968972	Marionette	INFO	Stopped listening on port 56293
+JavaScript warning: https://saucelabs.com/, line 14: Script terminated by timeout at:
+nrWrapper@https://saucelabs.com/:14:35415
+
+Dynamically enable window occlusion 1
+1697214970867	geckodriver	INFO	Listening on 127.0.0.1:56436
+1697214973943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileIIFsgm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697214974251	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697214974346	Marionette	INFO	Listening on port 56450
+WebDriver BiDi listening on ws://127.0.0.1:56437
+Read port: 56450
+1697214974551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56437/devtools/browser/8b2c7e21-ffc3-48f2-82ca-792c66f1bd77
+1697214982323	Marionette	INFO	Stopped listening on port 56450
+JavaScript warning: https://saucelabs.com/, line 14: Script terminated by timeout at:
+Xt/</t<@https://saucelabs.com/:14:56856
+
+JavaScript warning: https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js, line 1: Script terminated by timeout at:
+hf2P/</r.unstable_now@https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js:1:83864
+hf2P/</E/h<@https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js:1:83727
+
+Dynamically enable window occlusion 1
+1697215058931	geckodriver	INFO	Listening on 127.0.0.1:56719
+1697215062007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileQ50CZA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697215062418	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697215062523	Marionette	INFO	Listening on port 56734
+WebDriver BiDi listening on ws://127.0.0.1:56720
+Read port: 56734
+1697215062742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56720/devtools/browser/3321b3bc-4576-4875-ac86-d06b86ea22a7
+1697215071916	Marionette	INFO	Stopped listening on port 56734
+JavaScript warning: https://js.driftt.com/include/1697215200000/ga66fakztv3z.js, line 1: Script terminated by timeout at:
+@https://js.driftt.com/include/1697215200000/ga66fakztv3z.js:1:40952
+e.exports</deserializeMessage/<@https://js.driftt.com/include/1697215200000/ga66fakztv3z.js:1:49755
+e.exports</deserializeMessage/<@https://js.driftt.com/include/1697215200000/ga66fakztv3z.js:1:49577
+deserializeMessage@https://js.driftt.com/include/1697215200000/ga66fakztv3z.js:1:49766
+e.exports</receive_receiveMessage/s<@https://js.driftt.com/include/1697215200000/ga66fakztv3z.js:1:55089
+receive_receiveMessage@https://js.driftt.com/include/1697215200000/ga66fakztv3z.js:1:55242
+e.exports</setup/</r/<@https://js.driftt.com/include/1697215200000/ga66fakztv3z.js:1:62230
+e.exports</ZalgoPromise.try@https://js.driftt.com/include/1697215200000/ga66fakztv3z.js:1:29613
+e.exports</setup/</r/<@https://js.driftt.com/include/1697215200000/ga66fakztv3z.js:1:62003
+r@https://js.driftt.com/include/1697215200000/ga66fakztv3z.js:1:62276
+o@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:125:212625
+nrWrapper@https://saucelabs.com/:14:35567
+
+JavaScript warning: https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js, line 1: Script terminated by timeout at:
+hf2P/</r.unstable_now@https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js:1:83864
+hf2P/</E/h<@https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js:1:83727
+
+Dynamically enable window occlusion 1
+1697215073501	geckodriver	INFO	Listening on 127.0.0.1:56877
+1697215076549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56878" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilejGvokD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697215076858	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697215076949	Marionette	INFO	Listening on port 56891
+WebDriver BiDi listening on ws://127.0.0.1:56878
+Read port: 56891
+1697215077124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56878/devtools/browser/d70a6bd6-3d83-4739-ab38-7d6138e835d6
+1697215088411	Marionette	INFO	Stopped listening on port 56891
+JavaScript warning: https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js, line 10: Script terminated by timeout at:
+t1@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:31629
+64448/o8/<@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:108525
+64448/o8/<@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:109989
+o8@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:112234
+oj@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:103025
+x@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:34:1375
+T@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:34:1904
+
+JavaScript warning: https://js.driftt.com/core/assets/js/51.558be3c5.chunk.js, line 1: Script terminated by timeout at:
+sentryWrapped@https://js.driftt.com/core/assets/js/51.558be3c5.chunk.js:1:8839
+
+Dynamically enable window occlusion 1
+1697215113785	geckodriver	INFO	Listening on 127.0.0.1:57080
+1697215116855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileeOEup8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697215117251	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697215117376	Marionette	INFO	Listening on port 57098
+WebDriver BiDi listening on ws://127.0.0.1:57082
+Read port: 57098
+1697215117649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57082/devtools/browser/360e4751-b3fa-4c17-8813-43dab03e134e
+1697215127265	Marionette	INFO	Stopped listening on port 57098
+JavaScript warning: https://x.clearbitjs.com/v1/pk_1aa8881cc10a23551c9ffe489754af6c/forms.js?page_path=%2F, line 42: Script terminated by timeout at:
+parcelRequire<.wDie</t.prototype.dispatchWindowMessage@https://x.clearbitjs.com/v1/pk_1aa8881cc10a23551c9ffe489754af6c/forms.js?page_path=%2F:42:1930
+w.ClearbitForms.handleWindowMessage@https://tag.clearbitscripts.com/v1/pk_1aa8881cc10a23551c9ffe489754af6c/tags.js:101:25
+o@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:125:212625
+nrWrapper@https://saucelabs.com/:14:35567
+
+Dynamically enable window occlusion 1
+1697215128714	geckodriver	INFO	Listening on 127.0.0.1:57237
+1697215131770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileQXcSlr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697215132049	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697215132127	Marionette	INFO	Listening on port 57251
+WebDriver BiDi listening on ws://127.0.0.1:57238
+Read port: 57251
+1697215132304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57238/devtools/browser/9233c932-089d-49cb-80c7-b3007d769dfd
+1697215139703	Marionette	INFO	Stopped listening on port 57251
+JavaScript warning: https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js, line 120: Script terminated by timeout at:
+interpolateValue@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:44477
+getValueAtCurrentTime@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:47844
+processEffectsSequence@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:48475
+prepareProperties@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:115464
+prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:135559
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/SVGRendererBase.prototype.renderFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:185390
+11248/factory/AnimationItem.prototype.renderFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:29044
+11248/factory/AnimationItem.prototype.gotoFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:28840
+11248/factory/AnimationItem.prototype.setCurrentRawFrameValue@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:33281
+11248/factory/AnimationItem.prototype.advanceTime@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:31269
+v@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:37617
+o@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:125:212625
+nrWrapper@https://saucelabs.com/:14:35567
+
+Dynamically enable window occlusion 1
+1697215225882	geckodriver	INFO	Listening on 127.0.0.1:57542
+1697215228959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilePuGXED"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697215229245	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697215229331	Marionette	INFO	Listening on port 57556
+WebDriver BiDi listening on ws://127.0.0.1:57543
+Read port: 57556
+1697215229512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57543/devtools/browser/6e16b665-0ebb-45d7-a7ba-5690a3e9c3d3
+1697215238903	Marionette	INFO	Stopped listening on port 57556
+JavaScript warning: https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js, line 125: Script terminated by timeout at:
+A@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:125:123305
+90428/a/t</<@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:125:123602
+97582/m/c/</<@https://saucelabs.com/_next/static/chunks/main-e750a95a55e8014a.js:2:115689
+97582/m/c/<@https://saucelabs.com/_next/static/chunks/main-e750a95a55e8014a.js:2:115794
+n@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:136:33475
+s@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:136:33673
+nrWrapper@https://saucelabs.com/:14:35567
+
+Dynamically enable window occlusion 1
+1697215240407	geckodriver	INFO	Listening on 127.0.0.1:57695
+1697215243475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilex1LZ88"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697215243750	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697215243838	Marionette	INFO	Listening on port 57709
+WebDriver BiDi listening on ws://127.0.0.1:57696
+Read port: 57709
+1697215244011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57696/devtools/browser/8525bd2d-bb80-43dc-9658-0e5c392ee235
+1697215251806	Marionette	INFO	Stopped listening on port 57709
+JavaScript warning: https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js, line 120: Script terminated by timeout at:
+r@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:39217
+interpolateValue@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:45088
+getValueAtCurrentTime@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:47844
+processEffectsSequence@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:48475
+iterateDynamicProperties@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:52309
+r@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:81235
+prepareProperties@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:115464
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186541
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/SVGRendererBase.prototype.renderFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:185390
+11248/factory/AnimationItem.prototype.renderFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:29044
+11248/factory/AnimationItem.prototype.gotoFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:28840
+11248/factory/AnimationItem.prototype.setCurrentRawFrameValue@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:33281
+11248/factory/AnimationItem.prototype.advanceTime@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:31269
+v@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:37617
+o@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:125:212625
+nrWrapper@https://saucelabs.com/:14:35567
+
+JavaScript warning: https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js, line 1: Script terminated by timeout at:
+hf2P/</r.unstable_now@https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js:1:83864
+hf2P/</E/h<@https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js:1:83727
+
+Dynamically enable window occlusion 1
+1697218339703	geckodriver	INFO	Listening on 127.0.0.1:63292
+1697218342772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofile258buS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697218343061	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697218343150	Marionette	INFO	Listening on port 63309
+WebDriver BiDi listening on ws://127.0.0.1:63293
+Read port: 63309
+1697218343331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63293/devtools/browser/e1288524-1a95-49a8-acfd-48419a0aa5f3
+1697218353804	Marionette	INFO	Stopped listening on port 63309
+JavaScript warning: https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js, line 120: Script terminated by timeout at:
+processEffectsSequence@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:48441
+iterateDynamicProperties@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:52309
+11248/factory/ShapeModifier.prototype.processKeys@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:74713
+prepareProperties@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:115464
+prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:135559
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/SVGRendererBase.prototype.renderFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:185390
+11248/factory/AnimationItem.prototype.renderFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:29044
+11248/factory/AnimationItem.prototype.gotoFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:28840
+11248/factory/AnimationItem.prototype.setCurrentRawFrameValue@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:33281
+11248/factory/AnimationItem.prototype.advanceTime@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:31269
+v@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:37617
+o@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:125:212625
+nrWrapper@https://saucelabs.com/:14:35567
+
+JavaScript warning: https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js, line 1: Script terminated by timeout at:
+hf2P/</r.unstable_now@https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js:1:83864
+hf2P/</E/h<@https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js:1:83727
+
+Dynamically enable window occlusion 1
+1697218355274	geckodriver	INFO	Listening on 127.0.0.1:63461
+1697218358334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63462" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilennxxG4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697218358612	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697218358701	Marionette	INFO	Listening on port 63475
+WebDriver BiDi listening on ws://127.0.0.1:63462
+Read port: 63475
+1697218358886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63462/devtools/browser/2114e97a-a7d6-4915-aa64-fce79bcca8a6
+1697218366229	Marionette	INFO	Stopped listening on port 63475
+JavaScript warning: https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js, line 10: Script terminated by timeout at:
+o1@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:107085
+o0@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:106959
+oj@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:102073
+x@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:34:1375
+T@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:34:1904
+
+JavaScript warning: https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js, line 1: Script terminated by timeout at:
+hf2P/</r.unstable_now@https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js:1:83878
+hf2P/</E/h<@https://js.driftt.com/core/assets/js/14.e24a6190.chunk.js:1:83727
+
+Dynamically enable window occlusion 1
+1697226233816	geckodriver	INFO	Listening on 127.0.0.1:60348
+1697226236893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileIkZgb4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697226237202	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697226237287	Marionette	INFO	Listening on port 60365
+WebDriver BiDi listening on ws://127.0.0.1:60349
+Read port: 60365
+1697226237467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60349/devtools/browser/bdbc3973-f058-4f50-af60-e4efa1a6435c
+1697226248318	Marionette	INFO	Stopped listening on port 60365
+JavaScript warning: https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js, line 120: Script terminated by timeout at:
+prepareProperties@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:115357
+prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:135559
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/SVGRendererBase.prototype.renderFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:185390
+11248/factory/AnimationItem.prototype.renderFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:29044
+11248/factory/AnimationItem.prototype.gotoFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:28840
+11248/factory/AnimationItem.prototype.setCurrentRawFrameValue@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:33281
+11248/factory/AnimationItem.prototype.advanceTime@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:31269
+v@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:37617
+o@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:125:212625
+nrWrapper@https://saucelabs.com/:14:35567
+
+JavaScript warning: https://js.driftt.com/core/assets/js/51.558be3c5.chunk.js, line 1: Script terminated by timeout at:
+sentryWrapped@https://js.driftt.com/core/assets/js/51.558be3c5.chunk.js:1:8730
+
+Dynamically enable window occlusion 1
+1697226317169	geckodriver	INFO	Listening on 127.0.0.1:60635
+1697226320237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60636" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofiled6qciT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697226320574	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697226320674	Marionette	INFO	Listening on port 60649
+Read port: 60649
+WebDriver BiDi listening on ws://127.0.0.1:60636
+1697226320740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60636/devtools/browser/8671212a-586c-4ed7-b17b-90a3816f3671
+1697226330905	Marionette	INFO	Stopped listening on port 60649
+JavaScript warning: https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js, line 10: Script terminated by timeout at:
+t1@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:31574
+64448/o8/<@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:108525
+64448/o8/<@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:109989
+o8@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:112234
+oj@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:103025
+x@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:34:1375
+T@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:34:1904
+
+Dynamically enable window occlusion 1
+1697226805194	geckodriver	INFO	Listening on 127.0.0.1:61668
+1697226808262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilejzPs3e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697226808539	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697226808619	Marionette	INFO	Listening on port 61683
+WebDriver BiDi listening on ws://127.0.0.1:61669
+Read port: 61683
+1697226808795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61669/devtools/browser/25accb45-2d2b-4261-adaa-14f6ee4cc82c
+1697226818701	Marionette	INFO	Stopped listening on port 61683
+JavaScript warning: https://saucelabs.com/, line 14: Script terminated by timeout at:
+n@https://saucelabs.com/:14:35674
+nrWrapper@https://saucelabs.com/:14:35627
+e@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:98060
+ol@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:98165
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:95032
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:95026
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:95026
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:95026
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:95026
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:95026
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:95026
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:95026
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:95026
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:96146
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94964
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:96146
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:96146
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:96146
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:96146
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:96146
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:96146
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:96146
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:96146
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:96146
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94964
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:96146
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94829
+ot@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:94716
+or@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:96017
+64448/o8/<@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:109995
+o8@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:112234
+oj@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:103025
+x@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:34:1375
+T@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:34:1904
+
+Dynamically enable window occlusion 1
+1697228705200	geckodriver	INFO	Listening on 127.0.0.1:49906
+1697228708241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofiletrnoRS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697228708535	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697228708618	Marionette	INFO	Listening on port 49921
+WebDriver BiDi listening on ws://127.0.0.1:49907
+Read port: 49921
+1697228708824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49907/devtools/browser/418e6cb7-c6a1-4ab6-aa12-7bb03d7b2a76
+1697228719784	Marionette	INFO	Stopped listening on port 49921
+JavaScript warning: https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js, line 2: Script terminated by timeout at:
+p@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:2:129161
+f@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:2:130030
+h@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:2:129695
+h@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:2:129760
+g@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:2:130521
+49731/e/y/k<@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:103:84336
+75260/l/<@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:2:125900
+aD@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:61585
+uE@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:71692
+i@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:121823
+o3@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:107169
+o1@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:107098
+o0@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:106959
+oj@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:10:102073
+x@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:34:1375
+T@https://saucelabs.com/_next/static/chunks/framework-3236775a9ca336a2.js:34:1904
+
+Dynamically enable window occlusion 1
+1697228721700	geckodriver	INFO	Listening on 127.0.0.1:50063
+1697228724757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50064" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileVLNqUg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697228725050	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697228725137	Marionette	INFO	Listening on port 50077
+WebDriver BiDi listening on ws://127.0.0.1:50064
+Read port: 50077
+1697228725390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50064/devtools/browser/fbd17707-7306-4d8a-9c95-1d3a1b6a893a
+1697228737672	Marionette	INFO	Stopped listening on port 50077
+JavaScript warning: https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js, line 120: Script terminated by timeout at:
+processEffectsSequence@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:48200
+iterateDynamicProperties@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:52309
+r@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:81235
+prepareProperties@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:115464
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186541
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/SVGRendererBase.prototype.renderFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:185390
+11248/factory/AnimationItem.prototype.renderFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:29044
+11248/factory/AnimationItem.prototype.gotoFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:28840
+11248/factory/AnimationItem.prototype.setCurrentRawFrameValue@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:33281
+11248/factory/AnimationItem.prototype.advanceTime@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:31269
+v@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:37617
+o@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:125:212625
+nrWrapper@https://saucelabs.com/:14:35567
+
+Dynamically enable window occlusion 1
+1697228741155	geckodriver	INFO	Listening on 127.0.0.1:50230
+1697228744214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileiQ6OPO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697228744508	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697228744591	Marionette	INFO	Listening on port 50245
+WebDriver BiDi listening on ws://127.0.0.1:50231
+Read port: 50245
+1697228744772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50231/devtools/browser/5136a224-7860-40eb-8df0-8a1d56f4325e
+1697228754858	Marionette	INFO	Stopped listening on port 50245
+JavaScript warning: https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js, line 120: Script terminated by timeout at:
+prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:135506
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/ICompElement.prototype.prepareFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:186910
+11248/factory/SVGRendererBase.prototype.renderFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:185390
+11248/factory/AnimationItem.prototype.renderFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:29044
+11248/factory/AnimationItem.prototype.gotoFrame@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:28840
+11248/factory/AnimationItem.prototype.setCurrentRawFrameValue@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:33281
+11248/factory/AnimationItem.prototype.advanceTime@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:31269
+v@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:120:37617
+o@https://saucelabs.com/_next/static/chunks/pages/_app-73d32b0fd5d5dbae.js:125:212625
+nrWrapper@https://saucelabs.com/:14:35567
+
+Dynamically enable window occlusion 1
+1697230867437	geckodriver	INFO	Listening on 127.0.0.1:54210
+1697230870483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileMfr7T1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697230870914	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697230871016	Marionette	INFO	Listening on port 54230
+WebDriver BiDi listening on ws://127.0.0.1:54211
+Read port: 54230
+1697230871227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54211/devtools/browser/6cc64dcb-a189-497a-8cf7-4faf93b61a43
+1697230876020	Marionette	INFO	Stopped listening on port 54230
+Dynamically enable window occlusion 1
+1697230877106	geckodriver	INFO	Listening on 127.0.0.1:54274
+1697230880165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofile8pf8Sx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697230880444	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697230880528	Marionette	INFO	Listening on port 54289
+WebDriver BiDi listening on ws://127.0.0.1:54275
+Read port: 54289
+1697230880708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54275/devtools/browser/23c45f83-ae71-4624-b516-96f648288837
+1697230884120	Marionette	INFO	Stopped listening on port 54289
+Dynamically enable window occlusion 1
+1697230887768	geckodriver	INFO	Listening on 127.0.0.1:54332
+1697230890828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofile0xUjk3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697230891110	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697230891188	Marionette	INFO	Listening on port 54346
+WebDriver BiDi listening on ws://127.0.0.1:54333
+Read port: 54346
+1697230891359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54333/devtools/browser/00ed2cec-a6c0-48c0-93e1-3f4df32e85de
+1697230895479	Marionette	INFO	Stopped listening on port 54346
+Dynamically enable window occlusion 1
+1697230896603	geckodriver	INFO	Listening on 127.0.0.1:54382
+1697230899657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilefSIix4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697230899942	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697230900029	Marionette	INFO	Listening on port 54396
+WebDriver BiDi listening on ws://127.0.0.1:54383
+Read port: 54396
+1697230900208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54383/devtools/browser/f87905a4-540e-4176-b6ba-6467836f66c2
+1697230903044	Marionette	INFO	Stopped listening on port 54396
+Dynamically enable window occlusion 1
+console.error: (new Error("IndexedDB: main/translations-models list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1697230952161	geckodriver	INFO	Listening on 127.0.0.1:54518
+1697230955233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileTqLwy0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697230955558	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697230955653	Marionette	INFO	Listening on port 54533
+WebDriver BiDi listening on ws://127.0.0.1:54519
+Read port: 54533
+1697230955838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54519/devtools/browser/4676da8a-3038-4e77-8e38-c9cbc9d2efa9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697230959467	Marionette	INFO	Stopped listening on port 54533
+Dynamically enable window occlusion 1
+1697230960688	geckodriver	INFO	Listening on 127.0.0.1:54575
+1697230963757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileSDdGBd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697230964039	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697230964122	Marionette	INFO	Listening on port 54589
+WebDriver BiDi listening on ws://127.0.0.1:54576
+Read port: 54589
+1697230964296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54576/devtools/browser/78133f26-3513-43cd-9c6b-f982eac5d866
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697230968200	Marionette	INFO	Stopped listening on port 54589
+Dynamically enable window occlusion 1
+1697230971307	geckodriver	INFO	Listening on 127.0.0.1:54638
+1697230974356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofiledrVmAt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697230974652	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697230974741	Marionette	INFO	Listening on port 54652
+WebDriver BiDi listening on ws://127.0.0.1:54639
+Read port: 54652
+1697230974919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54639/devtools/browser/6765710a-8448-4586-96c8-d732efa2e35d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697230979192	Marionette	INFO	Stopped listening on port 54652
+JavaScript warning: https://www.saucedemo.com/static/js/2.49d8299f.chunk.js, line 2: Script terminated by timeout at:
+_@https://www.saucedemo.com/static/js/2.49d8299f.chunk.js:2:29258
+t.default/o/</v.current<@https://www.saucedemo.com/static/js/2.49d8299f.chunk.js:2:30482
+
+Dynamically enable window occlusion 1
+1697230982535	geckodriver	INFO	Listening on 127.0.0.1:54702
+1697230985601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileINf4De"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697230985910	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697230985993	Marionette	INFO	Listening on port 54716
+WebDriver BiDi listening on ws://127.0.0.1:54703
+Read port: 54716
+1697230986177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54703/devtools/browser/82ead1fd-f057-411a-a257-f205ee841d01
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697230990183	Marionette	INFO	Stopped listening on port 54716
+Dynamically enable window occlusion 1
+1697231488493	geckodriver	INFO	Listening on 127.0.0.1:55640
+1697231491549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofile8x4uBb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697231492061	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697231492223	Marionette	INFO	Listening on port 55655
+Read port: 55655
+WebDriver BiDi listening on ws://127.0.0.1:55641
+1697231492320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55641/devtools/browser/fa02f2c4-320f-43dc-aacf-82c2f6070241
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697231497456	Marionette	INFO	Stopped listening on port 55655
+Dynamically enable window occlusion 1
+1697231498923	geckodriver	INFO	Listening on 127.0.0.1:55698
+1697231501980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilep3zK76"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697231502273	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697231502360	Marionette	INFO	Listening on port 55712
+WebDriver BiDi listening on ws://127.0.0.1:55699
+Read port: 55712
+1697231502534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55699/devtools/browser/e754505d-5fc6-44f7-935d-054833d6d0c3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697231506080	Marionette	INFO	Stopped listening on port 55712
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1697231509206	geckodriver	INFO	Listening on 127.0.0.1:55763
+1697231512266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55764" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileT7PHh5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697231512559	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697231512639	Marionette	INFO	Listening on port 55777
+WebDriver BiDi listening on ws://127.0.0.1:55764
+Read port: 55777
+1697231512820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55764/devtools/browser/2096f6b0-9b47-4744-8b6f-509a0e7f8128
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697231517023	Marionette	INFO	Stopped listening on port 55777
+Dynamically enable window occlusion 1
+1697231520071	geckodriver	INFO	Listening on 127.0.0.1:55824
+1697231523138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofile5o1NGN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697231523510	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697231523604	Marionette	INFO	Listening on port 55839
+WebDriver BiDi listening on ws://127.0.0.1:55825
+Read port: 55839
+1697231523817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55825/devtools/browser/5b2bafff-91ca-485f-9502-5ee080fcfb5e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697231527868	Marionette	INFO	Stopped listening on port 55839
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1697232880706	geckodriver	INFO	Listening on 127.0.0.1:57488
+1697232883776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofilefZYrEA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697232884364	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697232884498	Marionette	INFO	Listening on port 57496
+WebDriver BiDi listening on ws://127.0.0.1:57489
+Read port: 57496
+1697232884798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57489/devtools/browser/8924d256-5690-40fe-a059-2d571571270c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697232889267	Marionette	INFO	Stopped listening on port 57496
+Dynamically enable window occlusion 1
+1697232890429	geckodriver	INFO	Listening on 127.0.0.1:57531
+1697232893483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileERfyda"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697232893792	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697232893885	Marionette	INFO	Listening on port 57539
+WebDriver BiDi listening on ws://127.0.0.1:57532
+Read port: 57539
+1697232894088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57532/devtools/browser/ad86855a-10e0-46e2-a6f9-2cd7f7a1f9fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697232898120	Marionette	INFO	Stopped listening on port 57539
+Dynamically enable window occlusion 1
+1697232901259	geckodriver	INFO	Listening on 127.0.0.1:57576
+1697232904319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileITepnC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697232904644	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697232904743	Marionette	INFO	Listening on port 57586
+WebDriver BiDi listening on ws://127.0.0.1:57577
+Read port: 57586
+1697232904906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57577/devtools/browser/33a27f40-9590-449e-851e-f6aab6c072b1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697232908735	Marionette	INFO	Stopped listening on port 57586
+Dynamically enable window occlusion 1
+1697232911964	geckodriver	INFO	Listening on 127.0.0.1:57617
+1697232915041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileUinWuY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697232915343	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697232915433	Marionette	INFO	Listening on port 57627
+WebDriver BiDi listening on ws://127.0.0.1:57618
+Read port: 57627
+1697232915624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57618/devtools/browser/242b2a9c-ec93-4178-ab65-f633e89cbae4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697232919596	Marionette	INFO	Stopped listening on port 57627
+Dynamically enable window occlusion 1
+1697233046320	geckodriver	INFO	Listening on 127.0.0.1:57671
+1697233049398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileE7mwIK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697233049703	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697233049784	Marionette	INFO	Listening on port 57679
+WebDriver BiDi listening on ws://127.0.0.1:57672
+Read port: 57679
+1697233049956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57672/devtools/browser/2f6089ef-4440-4fe5-912e-4d6040577061
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697233053684	Marionette	INFO	Stopped listening on port 57679
+Dynamically enable window occlusion 1
+1697233054836	geckodriver	INFO	Listening on 127.0.0.1:57712
+1697233057914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofile5pn0N5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697233058190	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697233058273	Marionette	INFO	Listening on port 57720
+WebDriver BiDi listening on ws://127.0.0.1:57713
+Read port: 57720
+1697233058443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57713/devtools/browser/621d54fc-0d3a-4821-89f9-8ae5ed4a584a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697233062265	Marionette	INFO	Stopped listening on port 57720
+Dynamically enable window occlusion 1
+1697233065428	geckodriver	INFO	Listening on 127.0.0.1:57761
+1697233068512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57762" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofile9V5tax"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697233068792	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697233068870	Marionette	INFO	Listening on port 57769
+WebDriver BiDi listening on ws://127.0.0.1:57762
+Read port: 57769
+1697233069047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57762/devtools/browser/33122b40-eb75-425c-827e-bd6d5229aa81
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697233072917	Marionette	INFO	Stopped listening on port 57769
+JavaScript warning: https://www.saucedemo.com/static/js/2.49d8299f.chunk.js, line 2: Script terminated by timeout at:
+_@https://www.saucedemo.com/static/js/2.49d8299f.chunk.js:2:29258
+t.default/o/</v.current<@https://www.saucedemo.com/static/js/2.49d8299f.chunk.js:2:30482
+
+Dynamically enable window occlusion 1
+1697233076193	geckodriver	INFO	Listening on 127.0.0.1:57806
+1697233079266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileGVZ59M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697233079575	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697233079662	Marionette	INFO	Listening on port 57814
+WebDriver BiDi listening on ws://127.0.0.1:57807
+Read port: 57814
+1697233079846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57807/devtools/browser/f00361de-7977-4fcf-9e44-fdf78e0d56d2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697233083954	Marionette	INFO	Stopped listening on port 57814
+JavaScript warning: https://www.saucedemo.com/static/js/2.49d8299f.chunk.js, line 2: Script terminated by timeout at:
+_@https://www.saucedemo.com/static/js/2.49d8299f.chunk.js:2:29258
+t.default/o/</v.current<@https://www.saucedemo.com/static/js/2.49d8299f.chunk.js:2:30482
+
+Dynamically enable window occlusion 1
+1697233087156	geckodriver	INFO	Listening on 127.0.0.1:57856
+1697233090219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileStaqoK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697233090495	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697233090575	Marionette	INFO	Listening on port 57864
+WebDriver BiDi listening on ws://127.0.0.1:57857
+Read port: 57864
+1697233090746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57857/devtools/browser/fe1cbd00-ac90-41b4-acb3-bb8348b565c4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697233094696	Marionette	INFO	Stopped listening on port 57864
+Dynamically enable window occlusion 1
+1697233097882	geckodriver	INFO	Listening on 127.0.0.1:57897
+1697233100938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileUDFElu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697233101217	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697233101304	Marionette	INFO	Listening on port 57905
+WebDriver BiDi listening on ws://127.0.0.1:57898
+Read port: 57905
+1697233101495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57898/devtools/browser/51cf68f6-8c05-48c8-9f62-06ffafa32465
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697233105077	Marionette	INFO	Stopped listening on port 57905
+Dynamically enable window occlusion 1
+1697233108261	geckodriver	INFO	Listening on 127.0.0.1:57936
+1697233111331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileEKYJDD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697233111609	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697233111687	Marionette	INFO	Listening on port 57944
+WebDriver BiDi listening on ws://127.0.0.1:57937
+Read port: 57944
+1697233111860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57937/devtools/browser/f2f06394-9aec-4054-b235-46613c283e2d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697233115958	Marionette	INFO	Stopped listening on port 57944
+JavaScript warning: https://www.saucedemo.com/static/js/2.49d8299f.chunk.js, line 2: Script terminated by timeout at:
+_@https://www.saucedemo.com/static/js/2.49d8299f.chunk.js:2:29258
+t.default/o/</v.current<@https://www.saucedemo.com/static/js/2.49d8299f.chunk.js:2:30482
+
+Dynamically enable window occlusion 1
+1697233119164	geckodriver	INFO	Listening on 127.0.0.1:57982
+1697233122214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Claribel\\AppData\\Local\\Temp\\rust_mozprofileSzUA5Q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697233122502	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697233122586	Marionette	INFO	Listening on port 57995
+WebDriver BiDi listening on ws://127.0.0.1:57983
+Read port: 57995
+1697233122764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57983/devtools/browser/fd37a6aa-4b0e-40db-9d0f-5e4a909739f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1697233126397	Marionette	INFO	Stopped listening on port 57995
+Dynamically enable window occlusion 1
